@@ -1,7 +1,7 @@
 
 
 
-### Hi All 👋
+### Hi I'm Yuna
 
 - 💼 Jan. 2018 - Present : I’m a data analyst at LG U+
 - 🌱 Mar. 2013 - Feb. 2018 : I did a double major in Library and Information Science and Journalism and Mass Communication at SungKyunKwan university

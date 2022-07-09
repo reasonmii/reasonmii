@@ -5,6 +5,9 @@
 
 - 💼 Jan. 2018 - Present : I’m a data analyst at LG U+, analyzing churn rate
 - 💼 Jan. 2017 - Dec. 2017 : I did an internship at LG U+
+   - Internship at Business Convergent Service Team (B2B) for a month
+   - Team Project : Proposed the IoT service app to help parents' childcare, Presented the prototype with Arduino, 3D printing and the linked app
+   - Student Panel : Presented a new pricing system and got 2nd place
 - 💼 Mar. 2016 - Dec. 2016 : I was a digital marketing manager at Yellephant (kids app development company)
 - 💼 Feb. 2016 - Jul. 2016 : I did an internship at Crenovationlink and produced DMB and radio commercials (client : ohmycompany - crowd funcing site)
 - 🌱 Aug. 2015 - Dec. 2015 : I was an exchange student, majoring in Informatics at the University of Washington

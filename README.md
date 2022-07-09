@@ -3,6 +3,7 @@
 
 ### Hi! I'm Yuna ⚡
 
+Experience & Education
 - 💼 Jan. 2018 - Present : I’m a data analyst at LG U+, analyzing churn rate
 - 💼 Jan. 2017 - Dec. 2017 : I did an internship at LG U+
    - Internship at Business Convergent Service Team (B2B) for a month

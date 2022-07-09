@@ -3,8 +3,8 @@
 
 ### Hi there 👋
 
-I’m currently working on LG U+ as a data analyst.
-I did a double major in Library and Information Science and Journalism and Mass Communication.
+I’m currently working on LG U+ as a data analyst.</br>
+I did a double major in Library and Information Science and Journalism and Mass Communication at SungKyunKwan university.
 
 <!--
 **reasonmii/reasonmii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

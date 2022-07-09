@@ -10,7 +10,7 @@ Education
     - Did a library assistant : digitized Korean newspaper from 1980s to 1990s in accordance with east asia library's guideline
 
 Experience
-- 💼 Jan. 2018 - Present : I’m a data analyst at LG U+, especially focusing on customer retention
+- 💼 Jan. 2018 - Present : I’m a data analyst at LG U+, especially focusing on churn rate analysis
    - Customer Retention Strategy Team (Jan. 2022 ~ )
    - Customer Retention Care Team (Jan. ~ Dec. 2021)
    - Mobile Customer Retention Team (Jan. 2018 ~ Dec. 2020)

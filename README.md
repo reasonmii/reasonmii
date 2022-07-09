@@ -16,7 +16,8 @@ Experience
    - Team Project : Proposed the IoT service app to help parents' childcare, Presented the prototype with Arduino, 3D printing and the linked app
    - Student Panel : Presented a new pricing system and got 2nd place
 - 💼 Mar. 2016 - Dec. 2016 : I was a digital marketing manager at Yellephant (kids app development company)
-- 💼 Feb. 2016 - Jul. 2016 : I did an internship at Crenovationlink and produced DMB and radio commercials (client : ohmycompany - crowd funcing site)
+- 💼 Feb. 2016 - Jul. 2016 : I did an internship at Crenovationlink
+   - Produced DMB and radio commercials (client : ohmycompany - crowd funcing site)
 
 <!--
 **reasonmii/reasonmii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

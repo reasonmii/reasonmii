@@ -3,7 +3,13 @@
 
 ### Hi! I'm Yuna ⚡
 
-Experience & Education
+Education
+- 🌱 Mar. 2013 - Feb. 2018 : I did a double major in Library and Information Science and Journalism and Mass Communication at SungKyunKwan university
+  - Aug. 2015 - Dec. 2015 : I was an exchange student, majoring in Informatics at the University of Washington
+    - Got a full scholarship and living stipend as the first and only student to be selected from SKKU
+    - I did a library assistant : digitized Korean newspaper from 1980s to 1990s in accordance with east asia library's guideline
+
+Experience
 - 💼 Jan. 2018 - Present : I’m a data analyst at LG U+, analyzing churn rate
 - 💼 Jan. 2017 - Dec. 2017 : I did an internship at LG U+
    - Internship at Business Convergent Service Team (B2B) for a month
@@ -11,10 +17,6 @@ Experience & Education
    - Student Panel : Presented a new pricing system and got 2nd place
 - 💼 Mar. 2016 - Dec. 2016 : I was a digital marketing manager at Yellephant (kids app development company)
 - 💼 Feb. 2016 - Jul. 2016 : I did an internship at Crenovationlink and produced DMB and radio commercials (client : ohmycompany - crowd funcing site)
-- 🌱 Mar. 2013 - Feb. 2018 : I did a double major in Library and Information Science and Journalism and Mass Communication at SungKyunKwan university
-  - Aug. 2015 - Dec. 2015 : I was an exchange student, majoring in Informatics at the University of Washington
-    - Got a full scholarship and living stipend as the first and only student to be selected from SKKU
-    - I did a library assistant : digitized Korean newspaper from 1980s to 1990s in accordance with east asia library's guideline
 
 <!--
 **reasonmii/reasonmii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

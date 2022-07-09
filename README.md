@@ -3,13 +3,13 @@
 
 ### Hi! I'm Yuna ⚡
 
-Education
+**Education**
 - 🌱 Mar. 2013 - Feb. 2018 : I did a double major in Library and Information Science and Journalism and Mass Communication at SungKyunKwan university
   - ✈️ Aug. 2015 - Dec. 2015 : I was an exchange student, majoring in Informatics at the University of Washington
     - Got a full scholarship and living stipend as the first and only student to be selected from SKKU
     - Did a library assistant : digitized Korean newspaper from 1980s to 1990s in accordance with east asia library's guideline
 
-Experience
+**Experience**
 - 💼 Jan. 2018 - Present : I’m a data analyst at LG U+, especially focusing on churn rate analysis
    - Customer Retention Strategy Team (Jan. 2022 ~ )
    - Customer Retention Care Team (Jan. ~ Dec. 2021)

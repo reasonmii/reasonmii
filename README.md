@@ -17,8 +17,8 @@ Experience
    - Skills : SQL, R, Python
 - 💼 Jan. 2017 - Dec. 2017 : I attended a training program for senior students, called 'Early Bird', at LG U+
    - Internship at Business Convergent Service Team (B2B) for a month
-   - Team Project1 : Proposed the IoT service app to help parents' childcare, Presented the prototype with Arduino, 3D printing and the linked app
-   - Team Project2 : Presented a new pricing system and got 2nd place
+   - Team Project 1 : Proposed the IoT service app to help parents' childcare, Presented the prototype with Arduino, 3D printing and the linked app
+   - Team Project 2 : Presented a new pricing system and got 2nd place
 - 💼 Mar. 2016 - Dec. 2016 : I was a digital marketing manager at Yellephant (kids app development company)
 - 💼 Feb. 2016 - Jul. 2016 : I did an internship at Crenovationlink
    - Produced DMB and radio commercials (client : ohmycompany - crowd funcing site)

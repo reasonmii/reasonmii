@@ -4,7 +4,8 @@
 ### Hi there 👋
 
 Jan. 2018 - Present
-- I’m a data analyst at LG U+.</br>
+- I’m a data analyst at LG U+</br>
+
 Mar. 2013 - Feb. 2018</br>
 - I did a double major in Library and Information Science and Journalism and Mass Communication at SungKyunKwan university.
 

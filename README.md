@@ -11,7 +11,7 @@ Education
 
 Experience
 - 💼 Jan. 2018 - Present : I’m a data analyst at LG U+, analyzing churn rate
-- 💼 Jan. 2017 - Dec. 2017 : I attended a training program, called 'Early Bird', for senior students at LG U+
+- 💼 Jan. 2017 - Dec. 2017 : I attended a training program for senior students, called 'Early Bird', at LG U+
    - Internship at Business Convergent Service Team (B2B) for a month
    - Team Project : Proposed the IoT service app to help parents' childcare, Presented the prototype with Arduino, 3D printing and the linked app
    - Student Panel : Presented a new pricing system and got 2nd place

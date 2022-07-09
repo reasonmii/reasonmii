@@ -11,9 +11,9 @@
 
 **Experience**
 - 💼 Jan. 2018 - Present : I’m a data analyst at LG U+, especially focusing on churn rate analysis
-   - Customer Retention Strategy Team (Jan. 2022 ~ )
-   - Customer Retention Care Team (Jan. ~ Dec. 2021)
-   - Mobile Customer Retention Team (Jan. 2018 ~ Dec. 2020)
+   - Jan. 2022 ~ : Customer Retention Strategy Team
+   - Jan. 2021 ~ Dec. 2021 : Customer Retention Care Team
+   - Jan. 2018 ~ Dec. 2020 : Mobile Customer Retention Team
    - Skills : SQL, R, Python
 - 💼 Jan. 2017 - Dec. 2017 : I attended a training program for senior students, called 'Early Bird', at LG U+
    - Internship at Business Convergent Service Team (B2B) for a month

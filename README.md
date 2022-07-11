@@ -4,7 +4,7 @@
 ### Hi! I'm Yuna ⚡
 
 **Education**
-- 🌱 Aug. 2022 - : I will major in Computer Science at Georgia Institute of Technology (MS)
+- 🌱 Aug. 2022 - Future : I will major in Computer Science at Georgia Institute of Technology (MS)
 - 🌱 Mar. 2013 - Feb. 2018 : I did a double major in Library and Information Science and Journalism and Mass Communication at SungKyunKwan university (BS)
   - ✈️ Aug. 2015 - Dec. 2015 : I was an exchange student, majoring in Informatics at the University of Washington
     - Got a full scholarship and living stipend as the first and only student to be selected from SKKU

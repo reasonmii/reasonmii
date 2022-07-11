@@ -4,16 +4,17 @@
 ### Hi! I'm Yuna ⚡
 
 **Education**
-- 🌱 Mar. 2013 - Feb. 2018 : I did a double major in Library and Information Science and Journalism and Mass Communication at SungKyunKwan university
+- 🌱 Aug. 2022 - : I will major in Computer Science at Georgia Institute of Technology (MS)
+- 🌱 Mar. 2013 - Feb. 2018 : I did a double major in Library and Information Science and Journalism and Mass Communication at SungKyunKwan university (BS)
   - ✈️ Aug. 2015 - Dec. 2015 : I was an exchange student, majoring in Informatics at the University of Washington
     - Got a full scholarship and living stipend as the first and only student to be selected from SKKU
     - Did a library assistant : digitized Korean newspaper from 1980s to 1990s in accordance with east asia library's guideline
 
 **Experience**
-- 💼 Jan. 2018 - Present : I’m a data analyst at LG U+, especially focusing on churn rate analysis
-   - Jan. 2022 ~ : Customer Retention Strategy Team
-   - Jan. 2021 ~ Dec. 2021 : Customer Retention Care Team
-   - Jan. 2018 ~ Dec. 2020 : Mobile Customer Retention Team
+- 💼 Jan. 2018 - Aug. 2022 : I’m a data analyst at LG U+, especially focusing on churn rate analysis
+   - Jan. 2022 - Aug. 2022 : Customer Retention Strategy Team
+   - Jan. 2021 - Dec. 2021 : Customer Retention Care Team
+   - Jan. 2018 - Dec. 2020 : Mobile Customer Retention Team
    - Skills : SQL, R, Python
 - 💼 Jan. 2017 - Dec. 2017 : I attended a training program for senior students, called 'Early Bird', at LG U+
    - Internship at Business Convergent Service Team (B2B) for a month

@@ -11,17 +11,17 @@
     - Did a library assistant : digitized Korean newspaper from 1980s to 1990s in accordance with east asia library's guideline
 
 **Experience**
-- 💼 Jan. 2018 - Aug. 2022 : data analyst at LG U+ - Managed churn rate
+- 💼 Jan. 2018 - Aug. 2022 : **Data analyst** @ LG U+ - Managed churn rate
    - Jan. 2022 - Aug. 2022 : Customer Retention Strategy Team
    - Jan. 2021 - Dec. 2021 : Customer Retention Care Team
    - Jan. 2018 - Dec. 2020 : Mobile Customer Retention Team
    - Skills : SQL, R, Python
-- 💼 Jan. 2017 - Dec. 2017 : I attended a training program for senior students, called 'Early Bird', at LG U+
+- 💼 Jan. 2017 - Dec. 2017 : Attended a training program for senior students, called 'Early Bird', at LG U+
    - Internship at Business Convergent Service Team (B2B) for a month
    - Team Project 1 : Proposed the IoT service app to help parents' childcare, Presented the prototype with Arduino, 3D printing and the linked app
    - Team Project 2 : Presented a new pricing system and got 2nd place
-- 💼 Mar. 2016 - Dec. 2016 : I was a digital marketing manager at Yellephant (kids app development company)
-- 💼 Feb. 2016 - Jul. 2016 : I did an internship at Crenovationlink
+- 💼 Mar. 2016 - Dec. 2016 : Digital marketing manager @ Yellephant (kids app development company)
+- 💼 Feb. 2016 - Jul. 2016 : Internship @ Crenovationlink
    - Produced DMB and radio commercials (client : ohmycompany - crowd funcing site)
 
 

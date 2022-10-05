@@ -8,7 +8,7 @@
 - 🌱 Mar. 2013 - Feb. 2018 : I did a double major in Library and Information Science and Journalism and Mass Communication at SungKyunKwan university (BA)
   - ✈️ Aug. 2015 - Dec. 2015 : I was an exchange student, majoring in Informatics at the University of Washington
     - Got a full scholarship and living stipend as the first and only student to be selected from SKKU
-    - Did a library assistant : digitized Korean newspaper from 1980s to 1990s in accordance with east asia library's guideline
+    - Library assistant : Digitized Korean newspaper from 1980s to 1990s in accordance with east asia library's guideline
 
 **Experience**
 - 💼 Jan. 2018 - Aug. 2022 : **Data analyst** @ LG U+ - Managed churn rate

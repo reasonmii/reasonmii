@@ -5,8 +5,8 @@
 
 **Education**
 - 🌱 Aug. 2022 - May. 2024 : Computer Science - Specialization : Machine Learning @ Georgia Institute of Technology (MS)
-- 🌱 Mar. 2013 - Feb. 2018 : double major - Library and Information Science & Journalism and Mass Communication @ SungKyunKwan university (BA)
-  - ✈️ Aug. 2015 - Dec. 2015 : exchange student - Informatics @ University of Washington
+- 🌱 Mar. 2013 - Feb. 2018 : Library and Information Science & Journalism and Mass Communication (double major) @ SungKyunKwan university (BA)
+  - ✈️ Aug. 2015 - Dec. 2015 : Informatics @ University of Washington (exchange student)
     - Got a full scholarship and living stipend as the first and only student to be selected from SKKU
     - Library assistant : Digitized Korean newspaper from 1980s to 1990s in accordance with east asia library's guideline
 

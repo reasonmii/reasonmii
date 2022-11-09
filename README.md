@@ -4,9 +4,9 @@
 ### Hi! I'm Yuna ⚡
 
 **Education**
-- 🌱 Aug. 2022 - May. 2024 : My major is Computer Science, specializing in Machine Learning at Georgia Institute of Technology (MS)
-- 🌱 Mar. 2013 - Feb. 2018 : I did a double major in Library and Information Science and Journalism and Mass Communication at SungKyunKwan university (BA)
-  - ✈️ Aug. 2015 - Dec. 2015 : I was an exchange student, majoring in Informatics at the University of Washington
+- 🌱 Aug. 2022 - May. 2024 : Computer Science - Specialization : Machine Learning @ Georgia Institute of Technology (MS)
+- 🌱 Mar. 2013 - Feb. 2018 : double major - Library and Information Science & Journalism and Mass Communication @ SungKyunKwan university (BA)
+  - ✈️ Aug. 2015 - Dec. 2015 : exchange student - Informatics @ University of Washington
     - Got a full scholarship and living stipend as the first and only student to be selected from SKKU
     - Library assistant : Digitized Korean newspaper from 1980s to 1990s in accordance with east asia library's guideline
 

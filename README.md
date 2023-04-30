@@ -16,7 +16,7 @@
    - Jan. 2022 - Aug. 2022 : Customer Retention Strategy Team
    - Jan. 2021 - Dec. 2021 : Customer Retention Care Team
    - Jan. 2018 - Dec. 2020 : Mobile Customer Retention Team
-   - Skills : SQL, R, Python
+   - Skills : Python, SQL, R
 - 💼 Jan. 2017 - Dec. 2017 : Attended a training program for senior students, called 'Early Bird', at LG U+
    - Internship at Business Convergent Service Team (B2B) for a month
    - Team Project 1 : Proposed the IoT service app to help parents' childcare, Presented the prototype with Arduino, 3D printing and the linked app

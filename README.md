@@ -18,7 +18,7 @@
    - Jan. 2018 - Dec. 2020 : Mobile Customer Retention Team
    - Skills : Python, SQL, R
 - 💼 Jan. 2017 - Dec. 2017 : Attended a training program for senior students, called 'Early Bird', at LG U+
-   - Internship at Business Convergent Service Team (B2B) for a month
+   - Internship at Business Convergent Service Team (B2B)
    - Team Project 1 : Proposed the IoT service app to help parents' childcare, Presented the prototype with Arduino, 3D printing and the linked app
    - Team Project 2 : Presented a new pricing system and got 2nd place
 - 💼 Mar. 2016 - Dec. 2016 : Digital marketing manager @ Yellephant (kids app development company)

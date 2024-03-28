@@ -11,7 +11,7 @@
     - Library assistant : Digitized Korean newspaper from 1980s to 1990s in accordance with east asia library's guideline
 
 **Experience**
-- 💼 May. 2023 - Aug. 2023 : **Data scientist** @ WalMart Global Tech
+- 💼 May. 2023 - Aug. 2023 : **Data scientist Intern** @ WalMart Global Tech
 - 💼 Jan. 2018 - Aug. 2022 : **Data analyst** @ LG U+ - Managed churn rate
    - Jan. 2022 - Aug. 2022 : Customer Retention Strategy Team
    - Jan. 2021 - Dec. 2021 : Customer Retention Care Team
